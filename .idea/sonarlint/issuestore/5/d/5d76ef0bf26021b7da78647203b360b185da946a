@@ -1,0 +1,5 @@
+
+usquid:S37761"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Õ†›èùÿÿÿÿ8œã¶¨í-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(²Á£·8œã¶¨í-
+Zsquid:S2589*"7Remove this expression which always evaluates to "true"(Áó“©úÿÿÿÿ8œã¶¨í-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ðäè¸

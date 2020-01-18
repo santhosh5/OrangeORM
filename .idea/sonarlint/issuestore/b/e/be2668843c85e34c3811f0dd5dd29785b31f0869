@@ -1,0 +1,16 @@
+
+\squid:S1197Ú"8Move the array designator from the variable to the type.(Ó©Şÿÿÿÿÿ8’êÔ§í-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’êÔ§í-
+Esquid:S1172‘"&Remove these unused method parameters.(¹¨ïü8’êÔ§í-
+hsquid:S3358­"DExtract this nested ternary operation into an independent statement.(¯„áâüÿÿÿÿ8’êÔ§í-
+vsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ûÀéşüÿÿÿÿ8’êÔ§í-
+^squid:UnusedPrivateMethod,"2Remove this unused private "getReadableDb" method.(ŒİËÜ8åæäÎí-
+k$squid:AssignmentInSubExpressionCheck­".Extract the assignment out of this expression.(¯„áâüÿÿÿÿ8’êÔ§í-
+csquid:UnusedPrivateMethod("2Remove this unused private "getWritableDb" method.(òãéıÿÿÿÿ8÷´åÎí-
+Gsquid:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’êÔ§í-
+`squid:HiddenFieldCheck¦"6Rename "id" which hides the field declared at line 34.(–îòç8’êÔ§í-
+Wsquid:S1197ä"8Move the array designator from the variable to the type.(áëß8’êÔ§í-
+Gsquid:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’êÔ§í-
+vsquid:S1192¯"WDefine a constant instead of duplicating this literal "Cannot delete object: " 5 times.(ôÿ¥“8’êÔ§í-
+k$squid:AssignmentInSubExpressionCheck­".Extract the assignment out of this expression.(¯„áâüÿÿÿÿ8’êÔ§í-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’êÔ§í-

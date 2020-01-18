@@ -1,0 +1,5 @@
+
+tsquid:S4144u"XUpdate this method so that its implementation is not identical to "whereOr" on line 107.(Х‚є„ыяяяя
+squid:S1845"cRename field "offset" to prevent any misunderstanding/clash with field "OFFSET" defined on line 20.(КњЉояяяяя
+xsquid:S1845"aRename field "limit" to prevent any misunderstanding/clash with field "LIMIT" defined on line 19.(сМЗҐ
+[squid:S1155™">Use isEmpty() to check whether the collection is empty or not.(дХЏшяяяя

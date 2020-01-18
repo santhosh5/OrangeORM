@@ -1,0 +1,10 @@
+
+Usquid:S2130f"9Use "Integer.parseInt" for this string-to-int conversion.(§Ç¤Êÿÿÿÿÿ
+csquid:S1192½"KUse already-defined constant 'SUGAR' instead of duplicating its value here.(Ÿ…™
+fsquid:S1192°"NUse already-defined constant 'NOT_NULL' instead of duplicating its value here.(¥°’Ø
+osquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(•Ô†šşÿÿÿÿ
+Lsquid:S1066Ë"/Merge this if statement with the enclosing one.(Âƒ‰½ıÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğäè¸
+Qsquid:S1141e"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+gsquid:S1192­"JUse already-defined constant 'NULL' instead of duplicating its value here.(­öÇğúÿÿÿÿ
+csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(¨‰®‹
